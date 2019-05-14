@@ -1,2 +1,3 @@
 # vue-practice
-vue-practice
+vue-practice repository
+
